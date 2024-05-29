@@ -1,4 +1,4 @@
-<img  alt="Coding" width="100%" height="450px" margin-left="50%" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img  alt="Coding" width="90%" height="460px" margin-left="50%" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
 # I'm Nithin S
@@ -22,7 +22,9 @@ Transforming ideas into innovations 🚀 | AI Student | Advocate for Sustainable
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 ---
