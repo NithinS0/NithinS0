@@ -3,8 +3,11 @@
 Hey, I'm Nithin 👋
 
 💻 Turning caffeine into code since college.
+
 🐛 Creating bugs professionally, fixing them occasionally.
+
 🚀 Building stuff, breaking stuff, learning from both.
+
 🎯 Currently surviving CS and collecting GitHub commits.
 
 > If it works, don't touch it. If it doesn't, Stack Overflow probably knows why.
