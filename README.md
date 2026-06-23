@@ -88,17 +88,6 @@ I build AI/ML systems and agentic pipelines, which mostly means I spend my days 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NithinS0&theme=github_dark&utcOffset=5.5"/>
 
 </div>
-
----
-
-### 🏆 Trophy Cabinet (mostly participation trophies)
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NithinS0&theme=darkhub&no-frame=true&margin-w=4&row=1"/>
-
-</div>
-
 ---
 
 ### 🌐 Find Me Elsewhere, Probably Also Debugging
